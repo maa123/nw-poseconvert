@@ -1,0 +1,13 @@
+{
+  "name": "nw-poseconvert",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/maa123/nw-poseconvert.git",
+  "author": "maa123 <maa123.lq@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow-models/posenet": "^2.2.1",
+    "@tensorflow/tfjs-node": "^1.5.2",
+    "canvas": "^2.6.1"
+  }
+}
