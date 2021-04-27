@@ -6,8 +6,8 @@
   "author": "maa123 <maa123.lq@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@tensorflow-models/posenet": "^2.2.1",
-    "@tensorflow/tfjs-node": "^1.5.2",
-    "canvas": "^2.6.1"
+    "@tensorflow-models/posenet": "^2.2.2",
+    "@tensorflow/tfjs-node": "^3.5.0",
+    "canvas": "^2.7.0"
   }
 }
